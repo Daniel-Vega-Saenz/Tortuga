@@ -1,0 +1,71 @@
+import turtle
+nombre=turtle.Turtle()
+colors=["red","blue"]
+for d in range(1):
+    nombre.color(colors[0])
+    #Danni=Apodo
+    #Letra D
+    nombre.speed(10)
+    nombre.left(60)
+    nombre.forward(90)
+    nombre.left(60)
+    nombre.forward(90)
+    nombre.left(150)
+    nombre.forward(155)
+    nombre.left(30)
+    nombre.left(60)
+    #desplazamiento
+    nombre.forward(40)
+    #letra A
+    nombre.left(75)
+    nombre.forward(160)
+    nombre.left(-75)
+    nombre.forward(15)
+    nombre.right(75)
+    nombre.forward(80)
+    nombre.right(105)
+    nombre.forward(60)
+    nombre.left(180)
+    nombre.forward(60)
+    nombre.left(-75)
+    nombre.forward(80)
+    nombre.left(75)
+    #desplazamiento
+    nombre.forward(20)
+    #letra N
+    nombre.left(90)
+    nombre.forward(155)
+    nombre.left(200)
+    nombre.forward(165)
+    nombre.left(80)
+    nombre.left(80)
+    nombre.forward(155)
+    nombre.left(180)
+    nombre.forward(155)
+    nombre.left(90)
+    #desplazamiento
+    #desplazamiento
+    nombre.forward(20)
+    nombre.left(90)
+    nombre.forward(155)
+    nombre.left(200)
+    nombre.forward(165)
+    nombre.left(80)
+    nombre.left(80)
+    nombre.forward(155)
+    nombre.left(180)
+    nombre.forward(155)
+    nombre.left(90)
+    #desplazamiento
+    #desplazamiento
+    nombre.forward(20)
+    #I
+    nombre.forward(60)
+    nombre.left(180)
+    nombre.forward(30)
+    nombre.right(90)
+    nombre.forward(155)
+    nombre.left(90)
+    nombre.forward(30)
+    nombre.left(180)
+    nombre.forward(60)
